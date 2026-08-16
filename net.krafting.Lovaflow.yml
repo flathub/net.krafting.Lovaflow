@@ -68,6 +68,6 @@ modules:
       # When building from source :
       - type: git
         url: https://gitlab.com/Krafting/lovaflow-app
-        tag: 1.4.0
-        commit: b75b532fdb6679ea951faab0a006850737be9582
+        tag: 1.5.0
+        commit: 6535c823a6aa8235d3505bc723806fa68b30a05f
         x-checker-data: {type: git, tag-pattern: '^([\d.]+)$'}
